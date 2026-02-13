@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clases de inglés en linea ✨</title>
+</head>
+
+<body style="background-color: #F7F9FC; font-family: 'Arial Rounded MT Bold', Arial, sans-serif; margin: 0; padding: 0; color: #5D6D7E;">
+
+<header style="background-color: #D4E6F1; padding: 60px 20px; text-align: center; border-bottom: 5px solid #AED6F1;">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtkM29vd2xlNGsyOHh5dzc4dG5qY2V1dzFoM2cwcjM0Z3RpejJ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGpEhizFBTYSZMDzoX/giphy.gif" width="100" style="margin-bottom: 30px;">
+<h1 style="color: #2E86C1; font-size: 45px; margin: 0;">English Studio ✨</h1>
+<p style="font-size: 20px; color: #5499C7;">Un espacio seguro para hablar inglés sin miedo.</p>
+</header>
+
+<section style="padding: 40px 20px; text-align: center;">
+<h2 style="color: #3498DB;">Descubre tu potencial 🎥</h2>
+<div style="max-width: 650px; margin: 0 auto; border: 10px solid white; border-radius: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); overflow: hidden;">
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/rvL0adk6w3g" frameborder="0" allowfullscreen></iframe>
+</div>
+</section>
+
+<div style="background-color: white; padding: 40px 20px; text-align: center;">
+<h2 style="color: #85C1E9;">Nuestros Niveles</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="background: #E8F8F5; padding: 15px; border-radius: 15px; width: 150px;"><b>Starter (A1)</b><br>Desde cero</div>
+<div style="background: #FEF9E7; padding: 15px; border-radius: 15px; width: 150px;"><b>Explorer (B1)</b><br>Intermedio</div>
+<div style="background: #F4ECF7; padding: 15px; border-radius: 15px; width: 150px;"><b>Master (C1)</b><br>Fluidez total</div>
+</div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 40px 20px;">
+
+<div style="background: white; border-radius: 25px; padding: 25px; width: 280px; box-shadow: 0 5px 15px rgba(0,0,0,0.03); border: 1px solid #D6EAF8;">
+<h3 style="color: #5DADE2;">🌿 ¿Qué incluye?</h3>
+<ul style="text-align: left; line-height: 1.8;">
+<li>Material en PDF gratis</li>
+<li>Clubs de lectura</li>
+<li>App de vocabulario</li>
+<li>Grupos pequeños</li>
+</ul>
+</div>
+
+<div style="background: white; border-radius: 25px; padding: 25px; width: 280px; box-shadow: 0 5px 15px rgba(0,0,0,0.03); border: 1px solid #D1F2EB;">
+<h3 style="color: #48C9B0;">💳 Inversión</h3>
+<p style="font-size: 30px; font-weight: bold; color: #16A085;">$500 MX <small style="font-size: 14px;">/mes</small></p>
+<p>Acceso total a la plataforma y clases en vivo.</p>
+</div>
+
+<div style="background: white; border-radius: 25px; padding: 25px; width: 280px; box-shadow: 0 5px 15px rgba(0,0,0,0.03); border: 1px solid #F9E79F;">
+<h3 style="color: #F4D03F;">🕒 Horarios</h3>
+<p><b>Día:</b> 10:00 - 13:00</p>
+<p><b>Tarde:</b> 16:00 - 19:00</p>
+<p><b>Noche:</b> 20:00 - 22:00</p>
+</div>
+</div>
+
+<section style="padding: 20px; text-align: center; background-color: #FDFEFE;">
+<h2 style="color: #A9CCE3;">Lo que dicen nuestros alumnos 💬</h2>
+<div style="font-style: italic; color: #7F8C8D; max-width: 500px; margin: 0 auto; background: #FBFCFC; padding: 20px; border-radius: 20px;">
+"Las clases son súper relajadas y por fin entiendo los tiempos verbales. ¡Recomendado!" <br>
+<strong>- Sofía G.</strong>
+</div>
+</section>
+
+<section style="max-width: 800px; margin: 40px auto; padding: 20px;">
+<h2 style="text-align: center; color: #5D6D7E;">Dudas comunes 🤔</h2>
+<details style="background: white; padding: 10px; border-radius: 10px; margin-bottom: 10px; cursor: pointer;">
+<summary><b>¿Necesito conocimientos previos?</b></summary>
+<p>No, tenemos niveles desde cero absoluto.</p>
+</details>
+<details style="background: white; padding: 10px; border-radius: 10px; margin-bottom: 10px; cursor: pointer;">
+<summary><b>¿Dan certificado?</b></summary>
+<p>Sí, al finalizar cada nivel recibes un diploma digital.</p>
+</details>
+</section>
+
+<div style="margin: 50px auto; max-width: 600px; background-color: #EBF5FB; padding: 40px; border-radius: 40px; text-align: center;">
+<h2 style="color: #2E86C1;">¡Únete a la comunidad! ☁️</h2>
+<p>Inscríbete hoy y obtén un 10% de descuento en tu primer mes.</p>
+
+<form>
+<input type="text" placeholder="Tu nombre" style="width: 80%; padding: 15px; margin: 10px; border-radius: 20px; border: 1px solid #AED6F1; outline: none;">
+<input type="email" placeholder="Tu correo" style="width: 80%; padding: 15px; margin: 10px; border-radius: 20px; border: 1px solid #AED6F1; outline: none;">
+<button type="button" style="background-color: #5DADE2; color: white; padding: 15px 40px; border: none; border-radius: 30px; font-size: 18px; cursor: pointer; margin-top: 15px; box-shadow: 0 4px 10px rgba(93, 173, 226, 0.3);">
+Reservar mi lugar ✨
+</button>
+</form>
+</div>
+
+<footer style="text-align: center; padding: 30px; color: #BDC3C7; font-size: 14px;">
+English Studio &copy; 2026 | Hecho con amor para estudiantes
+</footer>
+
+</body>
+
+</html>
